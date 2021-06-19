@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zB2z6R2Z+s+ShGaI0yJx4qed00X69Vda6TP1aq5mep/L7nikEBEIpl9DH5tFkrn2sbGRSgSEMPvzv6bweQ2Hdg==",
+  "success": true,
+  "projectFilePath": "C:\\SourceCode\\Applications\\NetCoreDocker\\NetCoreDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fireexit\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\fireexit\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\fireexit\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\fireexit\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\fireexit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\fireexit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
